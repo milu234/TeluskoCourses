@@ -1,0 +1,4 @@
+1. .java file when combined gets converted into the bytecode.
+2 That bytecode is known as .class.
+3. This .class will go to JVM and you will get the output
+4. 
